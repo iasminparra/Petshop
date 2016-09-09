@@ -1,0 +1,29 @@
+body{
+	background-image: url("fundo.png");
+	background-position:center;
+}
+div#interface {
+    width: 85%;
+    background-color: white;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+    padding: 10px;
+}
+h1{
+	color:black;
+	font-size:55pt;
+	text-align:center;
+	font-family:Lucida Handwriting;
+	text-shadow: 0 0 0.2em #A4A4A4, 0 0 0.2em #A4A4A4;
+	
+}
+h2{
+	color:black;
+	font-size:15pt;
+	text-align:center;
+	font-family:Lucida Handwriting;
+}
+legend{
+	color:gray;
+	font-family:Lucida Handwriting;
+}
